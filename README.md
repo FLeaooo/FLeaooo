@@ -16,7 +16,7 @@
 
 ###
 
-<p style="font-size: 20px;" align="left">- 🔭 I am doing freelance as a fullstack developer<br>- 📚 I am studying Computer Science at Federal University of Jatai<br>- ⚡ In my free time I like read philosofy, classics...</p>
+<strong align="left">- 🔭 I am doing freelance as a fullstack developer<br>- 📚 I am studying Computer Science at Federal University of Jatai<br>- ⚡ In my free time I like read philosofy, classics...</strong>
 
 ###
 
