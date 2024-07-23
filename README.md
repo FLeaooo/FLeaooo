@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hi there, i'm Leão 👋 🇻🇦</h1>
+<h1 align="center">✝️ Ora et labora 🇻🇦</h1>
 
 ###
 
