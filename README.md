@@ -16,11 +16,19 @@
 
 ###
 
-<strong align="left">- 🔭 I am doing freelance as a fullstack developer<br>- 📚 I am studying Computer Science at Federal University of Jatai<br>- ⚡ In my free time I like read philosofy, classics...</strong>
+<strong align="left">- 💻 I am doing freelance as a fullstack developer<br>-  🎓 I am studying Computer Science at Federal University of Jatai<br>-  📚 In my free time I like read philosofy, classics...</strong>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+</div>
 
 ###
 
