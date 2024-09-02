@@ -42,8 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natinbds&show_icons=true&theme=cobalt)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natinbds&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleaooo&show_icons=true&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fleaooo&layout=compact)
 
 ###
 
